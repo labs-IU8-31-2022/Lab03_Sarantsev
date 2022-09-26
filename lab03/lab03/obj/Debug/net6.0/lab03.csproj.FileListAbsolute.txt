@@ -1,0 +1,15 @@
+/Users/daniildanilov/Projects/lab03/lab03/bin/Debug/net6.0/lab03
+/Users/daniildanilov/Projects/lab03/lab03/bin/Debug/net6.0/lab03.deps.json
+/Users/daniildanilov/Projects/lab03/lab03/bin/Debug/net6.0/lab03.runtimeconfig.json
+/Users/daniildanilov/Projects/lab03/lab03/bin/Debug/net6.0/lab03.dll
+/Users/daniildanilov/Projects/lab03/lab03/bin/Debug/net6.0/lab03.pdb
+/Users/daniildanilov/Projects/lab03/lab03/obj/Debug/net6.0/lab03.csproj.AssemblyReference.cache
+/Users/daniildanilov/Projects/lab03/lab03/obj/Debug/net6.0/lab03.GeneratedMSBuildEditorConfig.editorconfig
+/Users/daniildanilov/Projects/lab03/lab03/obj/Debug/net6.0/lab03.AssemblyInfoInputs.cache
+/Users/daniildanilov/Projects/lab03/lab03/obj/Debug/net6.0/lab03.AssemblyInfo.cs
+/Users/daniildanilov/Projects/lab03/lab03/obj/Debug/net6.0/lab03.csproj.CoreCompileInputs.cache
+/Users/daniildanilov/Projects/lab03/lab03/obj/Debug/net6.0/lab03.dll
+/Users/daniildanilov/Projects/lab03/lab03/obj/Debug/net6.0/refint/lab03.dll
+/Users/daniildanilov/Projects/lab03/lab03/obj/Debug/net6.0/lab03.pdb
+/Users/daniildanilov/Projects/lab03/lab03/obj/Debug/net6.0/lab03.genruntimeconfig.cache
+/Users/daniildanilov/Projects/lab03/lab03/obj/Debug/net6.0/ref/lab03.dll
